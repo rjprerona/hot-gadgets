@@ -7,10 +7,12 @@
     cursor: pointer;
 }
 .container{
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .price{
     text-align: center;
+    color: black;
+    padding-bottom: 10px;
 }
 .card-text{
     color: gray;
@@ -18,8 +20,19 @@
 .card{
     border-radius: 20px;
     border: none;
-    box-shadow: 5px 10px lightgray;
+    box-shadow: 5px 10px 20px lightgray;
 }
 .cat{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
+}
+.see-color{
+    color: orange;
+}
+.categories-image{
+    border: none;
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+.cat-col{
+    color: hotpink;
 }
